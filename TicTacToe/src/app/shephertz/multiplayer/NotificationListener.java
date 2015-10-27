@@ -108,5 +108,23 @@ public class NotificationListener implements NotifyListener{
 		// TODO Auto-generated method stub
 		
 	}
+
+	/* (non-Javadoc)
+	 * @see com.shephertz.app42.gaming.multiplayer.client.listener.NotifyListener#onNextTurnRequest(java.lang.String)
+	 */
+	@Override
+	public void onNextTurnRequest(String arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	/* (non-Javadoc)
+	 * @see com.shephertz.app42.gaming.multiplayer.client.listener.NotifyListener#onPrivateUpdateReceived(java.lang.String, byte[], boolean)
+	 */
+	@Override
+	public void onPrivateUpdateReceived(String arg0, byte[] arg1, boolean arg2) {
+		// TODO Auto-generated method stub
+		
+	}
 	
 }
